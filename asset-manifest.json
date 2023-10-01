@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Lungs/static/css/main.c307e923.css",
+    "main.js": "/Lungs/static/js/main.139624e6.js",
+    "static/js/787.fc6c31ee.chunk.js": "/Lungs/static/js/787.fc6c31ee.chunk.js",
+    "static/media/enko.png": "/Lungs/static/media/enko.e2464ada5da2f419ba85.png",
+    "static/media/mini.png": "/Lungs/static/media/mini.d1848f442b08284e9085.png",
+    "static/media/patros.jpg": "/Lungs/static/media/patros.00612cc58be62e730e9f.jpg",
+    "index.html": "/Lungs/index.html",
+    "main.c307e923.css.map": "/Lungs/static/css/main.c307e923.css.map",
+    "main.139624e6.js.map": "/Lungs/static/js/main.139624e6.js.map",
+    "787.fc6c31ee.chunk.js.map": "/Lungs/static/js/787.fc6c31ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c307e923.css",
+    "static/js/main.139624e6.js"
+  ]
+}
